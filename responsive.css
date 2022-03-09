@@ -1,0 +1,28 @@
+@media screen and (max-width:959px){
+    .container{
+        width: 100%;
+    }
+    li {
+        width: 26%;
+    }
+    img {
+        width: 100%;
+    }
+}
+@media screen and (max-width:640px){
+    li {
+        width: 50%;
+    }
+    img {
+        width: 50%;
+    }
+
+}
+@media screen and (max-width:320px){
+    .container{
+        width: 320px;
+    }
+    li {
+        width: 100%;
+    }
+}
